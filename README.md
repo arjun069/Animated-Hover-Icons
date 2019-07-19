@@ -1,1 +1,2 @@
-Duno why atom and github never work really well lol 
+Animated Icons for webpages using HTML and CSS.
+- Hover effect added for visually pleasing your eyes.
